@@ -1,0 +1,39 @@
+    @import url(https://fonts.googleapis.com/css2?family=Passion+One&isplay=swap);
+
+
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+    html{
+    
+    height: 100%;
+    }
+
+
+    body{
+    background-image: linear-gradient(to bottom, rgb(146, 22, 130), rgb(7, 6, 6) );
+    }
+
+
+
+    .gif1{
+
+       
+text-align: center;
+
+       height: 30px;
+        margin: 140px;
+
+        color: blue;
+
+        font-family: 'Passion One', cursiva;
+
+    }
+
+
+
+
+
+
